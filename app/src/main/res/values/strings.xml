@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CalendarHttp</string>
+    <string name="baseUrl">https://www.googleapis.com/calendar/v3/calendars/</string>
+</resources>
